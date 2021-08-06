@@ -1,0 +1,9 @@
+[requires]
+MKL/2018.2@vg-sdk/stable
+benchmark/1.5@vg-sdk/stable
+eigen/3.3.9@vg-sdk/stable
+
+[generators]
+cmake_paths
+
+[imports]
